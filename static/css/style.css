@@ -1,0 +1,14 @@
+body            { font-family: sans-serif; background-image: url(); width: 80%; margin-left: 150px; margin-right: 150px;}
+h1, h2, h3, h4       {font-family: monospace;}
+button          { margin-bottom: 5px;}
+hr              { width: 80%; }
+.footer         { position: fixed; bottom: 0; width: 80%; margin-bottom: 30px;}
+.login          { text-align: right; margin-top: -40px;}
+.title          { display: block; font-size: 18px; font-weight: bold;}
+.header         { text-align: left; margin-left: 150px; margin-right: 150px; margin-bottom: 10px;}
+.categories     { float: left; width: 40%; text-align: left; }
+.items          { float: right; width: 57%; text-align: left; }
+.container      { width: 80%; margin-left: 150px; margin-right: 150px;}
+.flash          { margin-left: 150px; margin-right: 150px; background: #cee5F5; }
+.api            { text-align: right; margin-top: -20px; margin-right: 150px;}
+.note           { margin-left: 150px; }
